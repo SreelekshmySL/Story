@@ -1,1 +1,1 @@
-This is chapter 3
+This is chapter 3 - The main changes in second_alien branch - another pull request.
