@@ -1,3 +1,5 @@
+.DS_not_neede
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
